@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**callmejim1226/callmejim1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [My Personal Webiste](https://callmejim.netlify.app/)
 - 😄 Pronouns: ... He/Him/His
 - ⚡ Fun fact: ... I have educational expereince from three different countries
--->
+

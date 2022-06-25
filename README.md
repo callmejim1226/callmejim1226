@@ -12,4 +12,4 @@ I'm a passionate programmer, who enjoys exploring many fields in computer scienc
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have educational expereince from three different countries
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars,issues)

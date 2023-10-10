@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm a passionate programmer, who enjoys exploring many fields in computer science. These include web development (full-stack), database design, algorithm & data, networks & distributed systems, object-oriented design, and using scripting languages (Java, Python, etc). I'm currently concentrating on the software field at Northeastern University as a computer science major and pursuing a math minor. 
+I'm a passionate **full-stack software programmer**, who enjoys exploring many fields in computer science. These include web development (full-stack), database design, algorithm & data, networks & distributed systems, object-oriented design, and using scripting languages (Java, Python, etc). I'm currently concentrating on the software development field at Northeastern University as a computer science major and pursuing a math minor. 
 
 I enjoy experiencing a leadership role in the Northeastern Electric Racing Club and Korean Computer Science Community. I take the lead as the opportunity to learn more about the development of software products and become an effective communicator & eager listener when I collaborate with my teammates.
 
@@ -14,8 +14,7 @@ I enjoy experiencing a leadership role in the Northeastern Electric Racing Club 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have educational experience in three different cities (Moscow, Toronto, and Boston)
 
-## Github Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews&hide_rank=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews&hide_rank=true&custom_title=Jimin's%20Github%20Stats%20in%20Public%20Repo)
 
 ## My NER Software Solution Team:
 <img src="https://github.com/callmejim1226/callmejim1226/assets/91857946/8d9d7126-49c6-4cb7-9404-01742817ecc0" width="600">

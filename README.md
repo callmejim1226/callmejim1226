@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 I'm a passionate **full-stack software programmer**, who enjoys exploring many fields in computer science. These include web development (full-stack), database design, algorithm & data, networks & distributed systems, object-oriented design, and using scripting languages (Java, Python, etc). I'm currently concentrating on the software development field at Northeastern University as a computer science major and pursuing a math minor. 
@@ -14,10 +14,34 @@ I enjoy experiencing a leadership role in the Northeastern Electric Racing Club 
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have educational experience in three different cities (Moscow, Toronto, and Boston)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews&hide_rank=true&custom_title=Jimin's%20Github%20Stats%20in%20Public%20Repo)
+[![Anurag's GitHub stats](https://github-readme-stats-jimins-projects.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+
+## Connect with me
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />](https://www.linkedin.com/in/jiminkim1226/) &nbsp;
+[<img height="32" width="32" src="https://cdn.simpleicons.org/googleearth/#4285F4" />](https://callmejim.netlify.app/)
+
+## Languages and Tools
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" /> &nbsp;
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/git/#F05032" /> &nbsp;
+<img height="32" width="32" src="https://cdn.simpleicons.org/github/white" /> &nbsp;
+
+## Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 ## My NER Software Solution Team:
 <img src="https://github.com/callmejim1226/callmejim1226/assets/91857946/8d9d7126-49c6-4cb7-9404-01742817ecc0" width="600">
+
 
 ## My KCSC Workshop:
 <img src="https://github.com/callmejim1226/callmejim1226/assets/91857946/7eccf5af-3d67-4922-b7f6-0189a18692eb" width="600">

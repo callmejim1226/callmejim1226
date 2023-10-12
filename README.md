@@ -35,9 +35,12 @@ I enjoy experiencing a leadership role in the Northeastern Electric Racing Club 
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" /> &nbsp;
 
 ## Recent Activity
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<Details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  <!--START_SECTION:activity-->
+  TBA
+  <!--END_SECTION:activity-->
+</Details>
 
 ## My NER Software Solution Team:
 <img src="https://github.com/callmejim1226/callmejim1226/assets/91857946/8d9d7126-49c6-4cb7-9404-01742817ecc0" width="600">

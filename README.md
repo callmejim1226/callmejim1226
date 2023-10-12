@@ -38,7 +38,7 @@ I enjoy experiencing a leadership role in the Northeastern Electric Racing Club 
 <Details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-  TBA
+1. ❗ Opened issue [#1600](https://github.com/Northeastern-Electric-Racing/FinishLine/issues/1600) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
   <!--END_SECTION:activity-->
 </Details>
 

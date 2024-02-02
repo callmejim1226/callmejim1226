@@ -5,11 +5,11 @@ I'm a passionate **full-stack software programmer**, who enjoys exploring many f
 
 I enjoy experiencing a leadership role in the Northeastern Electric Racing Club and Korean Computer Science Community. I take the lead as the opportunity to learn more about the development of software products and become an effective communicator & eager listener when I collaborate with my teammates.
 
-- 🔭 I’m currently developing a full stack [PM web app](https://finishlinebyner.com/) in the [NER organization](https://github.com/Northeastern-Electric-Racing/FinishLine) and a tenant mobile app in PadMatch LLC
+- 🔭 I’m currently developing a full stack [PM web app](https://finishlinebyner.com/) in the [NER organization](https://github.com/Northeastern-Electric-Racing/FinishLine) and leading the [NEU LIKELION](https://www.instagram.com/likelion_neu) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
 - 🌱 I’m currently learning software development (Web 2.0 & 3.0, mobile app) and computer systems
 - 👯 I’m looking to collaborate with product managers and software developers in a company that makes creative software
 - 🤔 I’m looking for help with Blockchain (Web 3.0) and Cloud product development
-- 💬 Ask me about the CS program at Northeastern University and development work in a start-up
+- 💬 Ask me about the CS program at Northeastern University and software development work in a start-up
 - 📫 How to reach me: [My Personal Webiste](https://callmejim.netlify.app/)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have educational experience in three different cities (Moscow, Toronto, and Boston)

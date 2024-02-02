@@ -40,7 +40,7 @@ I enjoy experiencing a leadership role in the Northeastern Electric Racing Club 
 <Details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1712](https://github.com/Northeastern-Electric-Racing/FinishLine/pull/1712) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
+1. 💪 Opened PR [#2021](https://github.com/Northeastern-Electric-Racing/FinishLine/pull/2021) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
   <!--END_SECTION:activity-->
 </Details>
 

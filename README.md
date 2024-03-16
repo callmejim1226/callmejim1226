@@ -40,7 +40,7 @@ I enjoy experiencing a leadership role in the Northeastern Electric Racing Club 
 <Details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/callmejim1226/kanbas-react-web-app/pull/1) in [callmejim1226/kanbas-react-web-app](https://github.com/callmejim1226/kanbas-react-web-app)
+1. 💪 Opened PR [#2212](https://github.com/Northeastern-Electric-Racing/FinishLine/pull/2212) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
   <!--END_SECTION:activity-->
 </Details>
 

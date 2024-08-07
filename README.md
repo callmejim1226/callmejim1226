@@ -3,9 +3,9 @@
 
 I'm a passionate **full-stack software programmer**, who enjoys exploring many fields in computer science. These include web development (full-stack), database design, algorithm & data, networks & distributed systems, object-oriented design, and using scripting languages (Java, Python, etc). I'm currently concentrating on the software development field at Northeastern University as a computer science major and pursuing a math minor. 
 
-I enjoy experiencing a leadership role in the Northeastern Electric Racing Club and Korean Computer Science Community. I take the lead as the opportunity to learn more about the development of software products and become an effective communicator & eager listener when I collaborate with my teammates.
+I enjoy experiencing a leadership role in the WiroArt project. I take the lead as the opportunity to learn more about the development of software products and become an effective communicator & eager listener when I collaborate with my teammates.
 
-- 🔭 I’m currently developing a full stack [PM web app](https://finishlinebyner.com/) in the [NER organization](https://github.com/Northeastern-Electric-Racing/FinishLine) and leading the [NEU LIKELION](https://www.instagram.com/likelion_neu) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
+- 🔭 I’m currently developing a full stack Flutter app in the [WiroArt](https://www.linkedin.com/company/wiroart-inc/) and leading the [NEU LIKELION](https://www.instagram.com/likelion_neu) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
 - 🌱 I’m currently learning software development (Web 2.0 & 3.0, mobile app) and computer systems
 - 👯 I’m looking to collaborate with product managers and software developers in a company that makes creative software
 - 🤔 I’m looking for help with Blockchain (Web 3.0) and Cloud product development

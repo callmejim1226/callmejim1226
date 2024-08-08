@@ -1,11 +1,10 @@
 # Hi there 👋
 
 
-I'm a passionate **full-stack software programmer**, who enjoys exploring many fields in computer science. These include web development (full-stack), database design, algorithm & data, networks & distributed systems, object-oriented design, and using scripting languages (Java, Python, etc). I'm currently concentrating on the software development field at Northeastern University as a computer science major and pursuing a math minor. 
-
-I enjoy experiencing a leadership role in the WiroArt project. I take the lead as the opportunity to learn more about the development of software products and become an effective communicator & eager listener when I collaborate with my teammates.
+I'm a passionate **full-stack software programmer**, who enjoys exploring many fields in computer science. These include web & mobile app development (full-stack), database design, algorithm & data, networks & distributed systems, object-oriented design, and using scripting languages (Java, Python, etc). 
 
 - 🔭 I’m currently developing a full stack Flutter app in the [WiroArt](https://www.linkedin.com/company/wiroart-inc/) and leading the [NEU LIKELION](https://www.instagram.com/likelion_neu) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
+- 🏫 I concentrate on software development at Northeastern University as a computer science major and pursuing a math minor. I expect to graduate by December 2024 with a BSCS degree. 
 - 🌱 I’m currently learning software development (Web 2.0 & 3.0, mobile app) and computer systems
 - 👯 I’m looking to collaborate with product managers and software developers in a company that makes creative software
 - 🤔 I’m looking for help with Blockchain (Web 3.0) and Cloud product development
@@ -15,6 +14,14 @@ I enjoy experiencing a leadership role in the WiroArt project. I take the lead a
 - ⚡ Fun fact: I have educational experience in three different cities (Moscow, Toronto, and Boston)
 
 [![Anurag's GitHub stats](https://github-readme-stats-jimins-projects.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+
+## [WiroArt](https://www.linkedin.com/company/wiroart-inc/about/) Project
+As a head of development in the #1 social networking platform 📱 for fine arts,
+
+- 📊 I direct on NoSQL 20+ social network data models to analyze and store 1K+ artist network data in Google Cloud Platform
+- 🧑‍🎨 I contribute to Flutter app with Dart language for 2.6M+ artists to expand the network and promote their 1K+ artworks
+- 📂 I manage 4+ developers with Github project documentation to build an interactive remote workplace. The repository is **private** until we release the beta version of the app by the end of 2024.
+- 🧑‍🤝‍🧑 I take the lead as the opportunity to learn more about the development of software products and become an effective communicator & eager listener when I collaborate with my teammates.
 
 ## Connect with me
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />](https://www.linkedin.com/in/jiminkim1226/) &nbsp;

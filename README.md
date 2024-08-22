@@ -1,9 +1,9 @@
 # Hi there 👋
 
 
-I'm a passionate **full-stack software programmer**, who enjoys exploring many fields in computer science. These include web & mobile app development (full-stack), database design, algorithm & data, networks & distributed systems, object-oriented design, and using scripting languages (Java, Python, etc). 
+I'm a Full-stack application software developer who's open to learning web, mobile, desktop, cloud, and even more application software. My development experiences include React web with REST API & database in Express.js & PostgreSQL and Flutter app for Android & iOS in Dart with GCP service.
 
-- 🔭 I’m currently developing a full stack Flutter app in the [WiroArt](https://www.linkedin.com/company/wiroart-inc/) and leading the [NEU LIKELION](https://www.instagram.com/likelion_neu) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
+- 🔭 I’m currently developing a full stack Flutter app in the [WiroArt](https://www.linkedin.com/company/wiroart-inc/) and leading the [NEU LIKELION](https://www.instagram.com/likelion.neu/) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
 - 🏫 I concentrate on software development at Northeastern University as a computer science major and pursuing a math minor. I expect to graduate by December 2024 with a BSCS degree. 
 - 🌱 I’m currently learning software development (Web 2.0 & 3.0, mobile app) and computer systems
 - 👯 I’m looking to collaborate with product managers and software developers in a company that makes creative software
@@ -15,13 +15,10 @@ I'm a passionate **full-stack software programmer**, who enjoys exploring many f
 
 [![Anurag's GitHub stats](https://github-readme-stats-jimins-projects.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
 
-## [WiroArt](https://www.linkedin.com/company/wiroart-inc/about/) Project
-As a head of development in the #1 social networking platform 📱 for fine arts,
-
-- 📊 I direct on NoSQL 20+ social network data models to analyze and store 1K+ artist network data in Google Cloud Platform
-- 🧑‍🎨 I contribute to Flutter app with Dart language for 2.6M+ artists to expand the network and promote their 1K+ artworks
-- 📂 I manage 4+ developers with Github project documentation to build an interactive remote workplace. The repository is **private** until we release the beta version of the app by the end of 2024.
-- 🧑‍🤝‍🧑 I take the lead as the opportunity to learn more about the development of software products and become an effective communicator & eager listener when I collaborate with my teammates.
+## Me in a software team
+- 📈 As a developer with a passion for collaboration and mentorship, I’ve guided 40+ students at NEU through [NER software projects](https://electricracing.northeastern.edu/software/), [LIKELION workshops](https://www.linkedin.com/posts/jiminkim1226_starting-from-the-personal-website-workshop-activity-7157950189746470913-CreX?utm_source=share&utm_medium=member_desktop), and CS courses.
+- 🧑‍🤝‍🧑 My experience working with 50+ developers across 7+ team projects has shaped me into a highly approachable team player with strong empathy and a deep understanding of team dynamics.
+- 👍 In software projects, I'm motivated to ask and propose new features or problems of the project to my team, so we can embrace challenges for improving customer satisfaction and technical solutions.
 
 ## Connect with me
 [<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />](https://www.linkedin.com/in/jiminkim1226/) &nbsp;

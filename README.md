@@ -13,7 +13,7 @@ I'm a Full-stack application software developer who's open to learning web, mobi
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have educational experience in three different cities (Moscow, Toronto, and Boston)
 
-[![Anurag's GitHub stats](https://github-readme-stats-jimins-projects.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats-jimins-projects.vercel.app/api?username=callmejim1226&show_icons=true&theme=radical&hide=stars&show=reviews)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Me in a software team
 - 📈 As a developer with a passion for collaboration and mentorship, I’ve guided 40+ students at NEU through [NER software projects](https://electricracing.northeastern.edu/software/), [LIKELION workshops](https://www.linkedin.com/posts/jiminkim1226_starting-from-the-personal-website-workshop-activity-7157950189746470913-CreX?utm_source=share&utm_medium=member_desktop), and CS courses.
@@ -39,14 +39,6 @@ I'm a Full-stack application software developer who's open to learning web, mobi
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" /> &nbsp;
-
-## Recent Activity
-<Details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2329](https://github.com/Northeastern-Electric-Racing/FinishLine/pull/2329) in [Northeastern-Electric-Racing/FinishLine](https://github.com/Northeastern-Electric-Racing/FinishLine)
-  <!--END_SECTION:activity-->
-</Details>
 
 ## My NER Software Solution Team:
 <img src="https://github.com/callmejim1226/callmejim1226/assets/91857946/8d9d7126-49c6-4cb7-9404-01742817ecc0" width="600">

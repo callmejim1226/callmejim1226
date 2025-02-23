@@ -3,10 +3,10 @@
 
 I'm a Full-stack application software developer who's open to learning web, mobile, desktop, cloud, and even more application software. My development experiences include React web with REST API & database in Express.js & PostgreSQL and Flutter app for Android & iOS in Dart with GCP service.
 
-- 🔭 I’m currently developing a full stack Flutter app in the [WiroArt](https://www.linkedin.com/company/wiroart-inc/) and leading the [NEU LIKELION](https://www.instagram.com/likelion.neu/) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
-- 🏫 I concentrate on software development at Northeastern University as a computer science major and pursuing a math minor. I expect to graduate by December 2024 with a BSCS degree. 
+- 🔭 I’m currently developing a full stack Flutter app (for innovative artist social networking) in the [WiroArt](https://www.linkedin.com/company/wiroart-inc/) and led the [NEU LIKELION](https://www.instagram.com/likelion.neu/) community through [LIKELION US](https://us.likelion.net/) class program at Northeastern University.
+- 🏫 I concentrated on software development at Northeastern University as a computer science major and pursuing a math minor. I graduated in December 2024 with a BSCS degree. 
 - 🌱 I’m currently learning software development (Web 2.0 & 3.0, mobile app) and computer systems
-- 👯 I’m looking to collaborate with product managers and software developers in a company that makes creative software
+- 👯 I’m looking to collaborate with product managers and software developers in a company that makes creative software solution
 - 🤔 I’m looking for help with Blockchain (Web 3.0) and Cloud product development
 - 💬 Ask me about the CS program at Northeastern University and software development work in a start-up
 - 📫 How to reach me: [My Personal Webiste](https://callmejim.netlify.app/)
@@ -25,6 +25,7 @@ I'm a Full-stack application software developer who's open to learning web, mobi
 [<img height="32" width="32" src="https://cdn.simpleicons.org/googleearth" />](https://callmejim.netlify.app/)
 
 ## Languages, Frameworks, and Tools
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> &nbsp;
@@ -33,18 +34,21 @@ I'm a Full-stack application software developer who's open to learning web, mobi
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> &nbsp;
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> &nbsp;
 <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/git" /> &nbsp;
 <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" /> &nbsp;
 
-## My NER Software Solution Team:
+## My WiroArt Moments
+![image](https://github.com/user-attachments/assets/8d20c743-db17-4daf-b1ea-70d787dacf67)
+
+
+## My NER Software Solution Team
 <img src="https://github.com/callmejim1226/callmejim1226/assets/91857946/8d9d7126-49c6-4cb7-9404-01742817ecc0" width="600">
 
 
-## My KCSC Workshop:
+## My KCSC Workshop
 <img src="https://github.com/callmejim1226/callmejim1226/assets/91857946/7eccf5af-3d67-4922-b7f6-0189a18692eb" width="600">
 
 
